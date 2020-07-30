@@ -9,7 +9,7 @@ Revamp legacy system into new web based application
 
 2. Role definitions
 - Who is responsible for what?
-- OUTPUT: List of each team member with roles and responsibilites
+- OUTPUT: List of each team member with roles and responsibilities
 
 3. Objective
 - What is the objective of this project?
@@ -100,3 +100,7 @@ Revamp legacy system into new web based application
 2. Gut check
 - Is the expected level of completion acceptable, or are additional resources or decisions required?
 - OUPUT: Decisions and mitigation plans
+
+## Additional tasks
+- Setup CI/CD pipeline
+- Create Hello World app
