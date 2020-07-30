@@ -1,8 +1,8 @@
 # raft_pm_exercise
 Revamp legacy system into new web based application
 
-# Kickoff meeting agenda
-## Meeting 1
+# Kickoff agenda
+## Meeting 1 - Full Team
 1. Introductions
 - Raft team
 - Client team
@@ -35,9 +35,9 @@ Revamp legacy system into new web based application
 
 8. Resources
 - Inventory of people, tools, and other resources available for this project
-- OUTPUT: List of all people, tools, and other resources available for enabling the team to complete the project
+- OUTPUT: List of all people, tools, and other resources available for enabling the team to complete the project, including access as needed
 
-## Meeting 2
+## Meeting 2 - Full Team
 
 1. Roadmap
 - Review the overall vision and roadmap to ensure we're all on the same page
@@ -55,7 +55,7 @@ Revamp legacy system into new web based application
 - Discuss desired milestones and delivery dates
 - OUTPUT: Initial proposed high level timeline based on client goals
 
-## Meeting 3
+## Meeting 3 - Full Team
 
 1. Schedule Review
 - Discuss high level schedule based on Raft considerations
@@ -73,3 +73,30 @@ Revamp legacy system into new web based application
 
 4. Decision whether to move forward at this time
 - OUTPUT: Go or No Go decision from decision makers and list of issues that must be resolved befoe continuing project unless decision is final 
+
+## Meeting 4 - Raft team + Client Product Owner
+
+1. Identify initial backlog tasks
+- OUTPUT: High level issues in GitHub/ZenHub assigned to applicable epic
+
+## Meeting 5 - Raft team + Client Product Owner
+
+1. Discuss each issue and provide high level estimation, priorities, and dependencies
+- OUTPUT: High level sizing, priority, and dependencies for each issue in backlog
+
+## Meeting 6 - Raft team + Client Product Owner and other stakeholders as appropriate
+
+1. Backlog and schedule reconcilation
+- OUTPUT: Based on high level sizes, priorities, dependencies, how much of the backlog is likely to be completed within initial timeframe, and what to do about it
+2. Gut check
+- Is the expected level of completion and dates acceptable, or are additional resources or decisions required?
+- OUPUT: Decisions and mitigation plans
+
+
+## Meeting 7 - Raft team + Client Product Owner
+
+1. Sprint 1 Backlog and schedule reconcilation
+- OUTPUT: Based on high level sizes, priorities, dependencies, what do we expect to complete for Sprint 1
+2. Gut check
+- Is the expected level of completion acceptable, or are additional resources or decisions required?
+- OUPUT: Decisions and mitigation plans
