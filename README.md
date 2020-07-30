@@ -66,10 +66,10 @@ Revamp legacy system into new web based application
 - Identify mitigations (or decisions to not address at this time)
 - OUTPUT: List of known risks with planned mitigations and other decisions
 
-13. Gut check
+3. Gut check
 - Do we all believe this achievable?
 - Why or why not?
 - OUTPUT: All stakeholders share opinions and concerns, list of issues that must be resolved before continuining project
 
-14. Decision whether to move forward at this time
+4. Decision whether to move forward at this time
 - OUTPUT: Go or No Go decision from decision makers and list of issues that must be resolved befoe continuing project unless decision is final 
